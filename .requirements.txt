@@ -1,0 +1,9 @@
+opencv-python-headless
+decord
+torch
+torchvision
+transformers
+accelerate
+numpy
+pandas
+tqdm
