@@ -1,4 +1,4 @@
-# Video Caption Generation using Spatio-Temporal Attention
+# Video Caption Generation using Temporal Attention
 
 ## Overview
 
